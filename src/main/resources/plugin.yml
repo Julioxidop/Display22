@@ -1,0 +1,7 @@
+name: Display22
+version: '${project.version}'
+main: net.pulga22.display22.Display22
+api-version: 1.19
+commands:
+  display:
+    description: "Displays a custom animations to a player"
